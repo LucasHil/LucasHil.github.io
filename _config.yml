@@ -1,3 +1,4 @@
-title: Mi Blog
-description: Write-ups sobre seguridad informática
+title: "My Technical Write-ups"
+description: "Learning notes, write-ups and technical research"
 theme: minima
+markdown: kramdown
